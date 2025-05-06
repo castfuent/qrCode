@@ -1,6 +1,7 @@
 const translations = {
     en: {
       title: "QR vCard Generator",
+      title2: "QR vCard Generator",
       firstName: "First Name",
       lastName: "Last Name",
       organization: "Organization",
@@ -13,6 +14,7 @@ const translations = {
     },
     es: {
       title: "Generador de QR vCard",
+      title2: "Generador de QR vCard",
       firstName: "Nombre",
       lastName: "Apellido",
       organization: "Organización",
